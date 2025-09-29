@@ -11,7 +11,8 @@ A simple GUI-based calculator built using Java Swing. Supports basic arithmetic 
 
 ## 🖼️ Screenshot
 
-![Calculator UI](assets/screenshot.png)
+![Calculator UI](<img width="726" height="855" alt="Screenshot 2025-09-29 224337" src="https://github.com/user-attachments/assets/36ae8984-d44e-4081-af5e-e4250daef709" />
+.png)
 
 ## 🛠️ Technologies Used
 
